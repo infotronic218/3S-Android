@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "423253314798",
+    "firebase_url": "https://etis-iot.firebaseio.com",
+    "project_id": "etis-iot",
+    "storage_bucket": "etis-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423253314798:android:05a628723be2403f6af7ff",
+        "android_client_info": {
+          "package_name": "sous.etis.tech.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423253314798-ctictvb4jfvevgi9gqbjrq0vfsaha19p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sous.etis.tech.com",
+            "certificate_hash": "37382a6e4d95939be2f66b2cc262c9351f7c7f8a"
+          }
+        },
+        {
+          "client_id": "423253314798-hem0vv47bvfk3e4jae7c9ue9be3rdbm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAn8s0RmHraJj7quSuc1FQRqV6EPe3iEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423253314798-hem0vv47bvfk3e4jae7c9ue9be3rdbm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
